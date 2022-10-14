@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Univercity.Damain</AssemblyName>
+    <RootNamespace>Univercity.Damain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
