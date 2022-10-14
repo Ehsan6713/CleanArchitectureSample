@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{D7889A9A-C390-49FA-9C04-05C25FFDFC70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{607CD08A-5446-41D9-A33B-AB5406AE45E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{5587F387-6CA0-4381-9D08-37D2ACF8D340}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC", "IOC", "{8BF3524F-6A3E-4D4C-9E83-3AAE340A8082}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{2ED92322-EA7D-426B-94E9-61E3B1F24990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc", "Mvc\Mvc.csproj", "{156D6242-9039-4370-B5F8-0FC68035FF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156D6242-9039-4370-B5F8-0FC68035FF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156D6242-9039-4370-B5F8-0FC68035FF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156D6242-9039-4370-B5F8-0FC68035FF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156D6242-9039-4370-B5F8-0FC68035FF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{156D6242-9039-4370-B5F8-0FC68035FF2C} = {2ED92322-EA7D-426B-94E9-61E3B1F24990}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E61586DE-72C8-4C86-A317-B965EF7FC762}
+	EndGlobalSection
+EndGlobal
